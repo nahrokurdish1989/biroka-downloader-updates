@@ -1,10 +1,10 @@
 {
-  "version": "2.6.5",
-  "url": "https://github.com/nahrokurdish1989/biroka-downloader-updates/releases/download/v2.6.5/BirokaStudioDownloader_Setup.exe",
-  "sha256": "55e63987c5510f5de6b0925ce4c4d60b8f95387b77b1e263993dbce92487059c",
-  "size": 127283223,
+  "version": "2.6.6",
+  "url": "https://github.com/nahrokurdish1989/biroka-downloader-updates/releases/download/v2.6.6/BirokaStudioDownloader_Setup.exe",
+  "sha256": "42d0ab25e13ec74a7bc98ffe41502e7e1b6380bc4157ec347320a4c20d4c3cb0",
+  "size": 127277085,
   "notes": {
-    "ku": "باشترکردن و چاککردنەوە"
+    "ku": "تاقیکردنەوەی ئەپدەیت و باشترکردن"
   },
-  "sig": "KpbapMQ5hE9Kr419uToamGM3PWi6YRqnw40dZ6DGObm0Mv8iexygHT3B6qP9mdZ4lgx4DWoyxPMEGMdpOnt4DA"
+  "sig": "NcwvTTaV8w9e57qyXym1t7yr0J1IT1ZrY4rlBmLMJ9p1v5SouK3vL8Ii9GvK8F8M33iV_LB2NQpBpw94LtmgAQ"
 }
